@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MAITRI: Multi-modal AI Therapeutic Intelligent Agent",
+  "description": "An advanced AI companion for astronauts, providing real-time emotional and physiological monitoring, personalized interventions, and crew synchronization analysis to ensure peak mental and physical well-being during long-duration space missions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
